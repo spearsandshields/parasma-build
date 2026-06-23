@@ -1,0 +1,612 @@
+[
+  {
+    "path": "fixtures/bookmark/bookmark-basic.docx",
+    "category": "bookmark",
+    "name": "bookmark-basic"
+  },
+  {
+    "path": "fixtures/comment/comment-basic.docx",
+    "category": "comment",
+    "name": "comment-basic"
+  },
+  {
+    "path": "fixtures/field/complex-date-field.docx",
+    "category": "field",
+    "name": "complex-date-field"
+  },
+  {
+    "path": "fixtures/field/complex-page-field.docx",
+    "category": "field",
+    "name": "complex-page-field"
+  },
+  {
+    "path": "fixtures/field/toc-basic.docx",
+    "category": "field",
+    "name": "toc-basic"
+  },
+  {
+    "path": "fixtures/footnote/endnote-basic.docx",
+    "category": "footnote",
+    "name": "endnote-basic"
+  },
+  {
+    "path": "fixtures/footnote/footnote-basic.docx",
+    "category": "footnote",
+    "name": "footnote-basic"
+  },
+  {
+    "path": "fixtures/form/form-checkbox.docx",
+    "category": "form",
+    "name": "form-checkbox"
+  },
+  {
+    "path": "fixtures/form/form-dropdown.docx",
+    "category": "form",
+    "name": "form-dropdown"
+  },
+  {
+    "path": "fixtures/form/form-placeholder.docx",
+    "category": "form",
+    "name": "form-placeholder"
+  },
+  {
+    "path": "fixtures/form/form-text.docx",
+    "category": "form",
+    "name": "form-text"
+  },
+  {
+    "path": "fixtures/header-footer/footer-default.docx",
+    "category": "header-footer",
+    "name": "footer-default"
+  },
+  {
+    "path": "fixtures/header-footer/header-default.docx",
+    "category": "header-footer",
+    "name": "header-default"
+  },
+  {
+    "path": "fixtures/header-footer/header-first-page.docx",
+    "category": "header-footer",
+    "name": "header-first-page"
+  },
+  {
+    "path": "fixtures/header-footer/page-numbers.docx",
+    "category": "header-footer",
+    "name": "page-numbers"
+  },
+  {
+    "path": "fixtures/header/header-table.docx",
+    "category": "header",
+    "name": "header-table"
+  },
+  {
+    "path": "fixtures/hyperlink/clickable-links.docx",
+    "category": "hyperlink",
+    "name": "clickable-links"
+  },
+  {
+    "path": "fixtures/hyperlink/hyperlink-external.docx",
+    "category": "hyperlink",
+    "name": "hyperlink-external"
+  },
+  {
+    "path": "fixtures/image/image-anchored.docx",
+    "category": "image",
+    "name": "image-anchored"
+  },
+  {
+    "path": "fixtures/image/image-inline.docx",
+    "category": "image",
+    "name": "image-inline"
+  },
+  {
+    "path": "fixtures/image/wraptest-diamond-center.docx",
+    "category": "image",
+    "name": "wraptest-diamond-center"
+  },
+  {
+    "path": "fixtures/image/wraptest-diamond-tight.docx",
+    "category": "image",
+    "name": "wraptest-diamond-tight"
+  },
+  {
+    "path": "fixtures/image/wraptest-square-center.docx",
+    "category": "image",
+    "name": "wraptest-square-center"
+  },
+  {
+    "path": "fixtures/image/wraptest-square-left.docx",
+    "category": "image",
+    "name": "wraptest-square-left"
+  },
+  {
+    "path": "fixtures/image/wraptest-square-right-anchor.docx",
+    "category": "image",
+    "name": "wraptest-square-right-anchor"
+  },
+  {
+    "path": "fixtures/image/wraptest-square-right.docx",
+    "category": "image",
+    "name": "wraptest-square-right"
+  },
+  {
+    "path": "fixtures/image/wraptest-square.docx",
+    "category": "image",
+    "name": "wraptest-square"
+  },
+  {
+    "path": "fixtures/image/wraptest-topandbottom-center.docx",
+    "category": "image",
+    "name": "wraptest-topandbottom-center"
+  },
+  {
+    "path": "fixtures/image/wraptest-topandbottom.docx",
+    "category": "image",
+    "name": "wraptest-topandbottom"
+  },
+  {
+    "path": "fixtures/list/bullet-nested-2.docx",
+    "category": "list",
+    "name": "bullet-nested-2"
+  },
+  {
+    "path": "fixtures/list/bullet-single.docx",
+    "category": "list",
+    "name": "bullet-single"
+  },
+  {
+    "path": "fixtures/list/custom-numbering.docx",
+    "category": "list",
+    "name": "custom-numbering"
+  },
+  {
+    "path": "fixtures/list/decimal-single.docx",
+    "category": "list",
+    "name": "decimal-single"
+  },
+  {
+    "path": "fixtures/math/math-fraction.docx",
+    "category": "math",
+    "name": "math-fraction"
+  },
+  {
+    "path": "fixtures/math/math-plain.docx",
+    "category": "math",
+    "name": "math-plain"
+  },
+  {
+    "path": "fixtures/numbering/multilevel-outline.docx",
+    "category": "numbering",
+    "name": "multilevel-outline"
+  },
+  {
+    "path": "fixtures/paragraph/align-center.docx",
+    "category": "paragraph",
+    "name": "align-center"
+  },
+  {
+    "path": "fixtures/paragraph/align-justify.docx",
+    "category": "paragraph",
+    "name": "align-justify"
+  },
+  {
+    "path": "fixtures/paragraph/align-left.docx",
+    "category": "paragraph",
+    "name": "align-left"
+  },
+  {
+    "path": "fixtures/paragraph/align-right.docx",
+    "category": "paragraph",
+    "name": "align-right"
+  },
+  {
+    "path": "fixtures/paragraph/column-break.docx",
+    "category": "paragraph",
+    "name": "column-break"
+  },
+  {
+    "path": "fixtures/paragraph/decimal-tab.docx",
+    "category": "paragraph",
+    "name": "decimal-tab"
+  },
+  {
+    "path": "fixtures/paragraph/indent-first-line.docx",
+    "category": "paragraph",
+    "name": "indent-first-line"
+  },
+  {
+    "path": "fixtures/paragraph/indent-left.docx",
+    "category": "paragraph",
+    "name": "indent-left"
+  },
+  {
+    "path": "fixtures/paragraph/line-spacing.docx",
+    "category": "paragraph",
+    "name": "line-spacing"
+  },
+  {
+    "path": "fixtures/paragraph/outline-level-1.docx",
+    "category": "paragraph",
+    "name": "outline-level-1"
+  },
+  {
+    "path": "fixtures/paragraph/outline-level-2.docx",
+    "category": "paragraph",
+    "name": "outline-level-2"
+  },
+  {
+    "path": "fixtures/paragraph/outline-level-3.docx",
+    "category": "paragraph",
+    "name": "outline-level-3"
+  },
+  {
+    "path": "fixtures/paragraph/page-break.docx",
+    "category": "paragraph",
+    "name": "page-break"
+  },
+  {
+    "path": "fixtures/paragraph/shading.docx",
+    "category": "paragraph",
+    "name": "shading"
+  },
+  {
+    "path": "fixtures/paragraph/space-after.docx",
+    "category": "paragraph",
+    "name": "space-after"
+  },
+  {
+    "path": "fixtures/paragraph/space-before.docx",
+    "category": "paragraph",
+    "name": "space-before"
+  },
+  {
+    "path": "fixtures/paragraph/three-col-equal.docx",
+    "category": "paragraph",
+    "name": "three-col-equal"
+  },
+  {
+    "path": "fixtures/paragraph/two-col-balanced.docx",
+    "category": "paragraph",
+    "name": "two-col-balanced"
+  },
+  {
+    "path": "fixtures/paragraph/two-col-equal.docx",
+    "category": "paragraph",
+    "name": "two-col-equal"
+  },
+  {
+    "path": "fixtures/paragraph/two-col-sep.docx",
+    "category": "paragraph",
+    "name": "two-col-sep"
+  },
+  {
+    "path": "fixtures/paragraph/two-col-unequal.docx",
+    "category": "paragraph",
+    "name": "two-col-unequal"
+  },
+  {
+    "path": "fixtures/ppt/chart.pptx",
+    "category": "ppt",
+    "name": "chart"
+  },
+  {
+    "path": "fixtures/ppt/fills-colors.pptx",
+    "category": "ppt",
+    "name": "fills-colors"
+  },
+  {
+    "path": "fixtures/ppt/multi-slide.pptx",
+    "category": "ppt",
+    "name": "multi-slide"
+  },
+  {
+    "path": "fixtures/ppt/p0a-basic.pptx",
+    "category": "ppt",
+    "name": "p0a-basic"
+  },
+  {
+    "path": "fixtures/ppt/pictures.pptx",
+    "category": "ppt",
+    "name": "pictures"
+  },
+  {
+    "path": "fixtures/ppt/tables.pptx",
+    "category": "ppt",
+    "name": "tables"
+  },
+  {
+    "path": "fixtures/ppt/title-body.pptx",
+    "category": "ppt",
+    "name": "title-body"
+  },
+  {
+    "path": "fixtures/section/continuous-title-2col.docx",
+    "category": "section",
+    "name": "continuous-title-2col"
+  },
+  {
+    "path": "fixtures/settings/settings-even-odd-headers.docx",
+    "category": "settings",
+    "name": "settings-even-odd-headers"
+  },
+  {
+    "path": "fixtures/settings/settings-tab-stop.docx",
+    "category": "settings",
+    "name": "settings-tab-stop"
+  },
+  {
+    "path": "fixtures/settings/tab-stops-toc.docx",
+    "category": "settings",
+    "name": "tab-stops-toc"
+  },
+  {
+    "path": "fixtures/shapes/inline-image-dist.docx",
+    "category": "shapes",
+    "name": "inline-image-dist"
+  },
+  {
+    "path": "fixtures/shapes/textbox.docx",
+    "category": "shapes",
+    "name": "textbox"
+  },
+  {
+    "path": "fixtures/spreadsheet/demo.xlsx",
+    "category": "spreadsheet",
+    "name": "demo"
+  },
+  {
+    "path": "fixtures/spreadsheet/inventory-wide.xlsx",
+    "category": "spreadsheet",
+    "name": "inventory-wide"
+  },
+  {
+    "path": "fixtures/spreadsheet/merged.xlsx",
+    "category": "spreadsheet",
+    "name": "merged"
+  },
+  {
+    "path": "fixtures/spreadsheet/multi-sheet.xlsx",
+    "category": "spreadsheet",
+    "name": "multi-sheet"
+  },
+  {
+    "path": "fixtures/spreadsheet/number-formats.xlsx",
+    "category": "spreadsheet",
+    "name": "number-formats"
+  },
+  {
+    "path": "fixtures/spreadsheet/sample.csv",
+    "category": "spreadsheet",
+    "name": "sample"
+  },
+  {
+    "path": "fixtures/spreadsheet/styled.xlsx",
+    "category": "spreadsheet",
+    "name": "styled"
+  },
+  {
+    "path": "fixtures/spreadsheet/wide-grid.xlsx",
+    "category": "spreadsheet",
+    "name": "wide-grid"
+  },
+  {
+    "path": "fixtures/table/basic-1x1.docx",
+    "category": "table",
+    "name": "basic-1x1"
+  },
+  {
+    "path": "fixtures/table/basic-2x3.docx",
+    "category": "table",
+    "name": "basic-2x3"
+  },
+  {
+    "path": "fixtures/table/cell-background.docx",
+    "category": "table",
+    "name": "cell-background"
+  },
+  {
+    "path": "fixtures/table/cell-borders.docx",
+    "category": "table",
+    "name": "cell-borders"
+  },
+  {
+    "path": "fixtures/table/cell-padding.docx",
+    "category": "table",
+    "name": "cell-padding"
+  },
+  {
+    "path": "fixtures/table/cond-firstrow-border.docx",
+    "category": "table",
+    "name": "cond-firstrow-border"
+  },
+  {
+    "path": "fixtures/table/merged-horizontal.docx",
+    "category": "table",
+    "name": "merged-horizontal"
+  },
+  {
+    "path": "fixtures/table/merged-vertical.docx",
+    "category": "table",
+    "name": "merged-vertical"
+  },
+  {
+    "path": "fixtures/table/row-height.docx",
+    "category": "table",
+    "name": "row-height"
+  },
+  {
+    "path": "fixtures/table/row-split.docx",
+    "category": "table",
+    "name": "row-split"
+  },
+  {
+    "path": "fixtures/table/table-width.docx",
+    "category": "table",
+    "name": "table-width"
+  },
+  {
+    "path": "fixtures/text-box/textbox-basic.docx",
+    "category": "text-box",
+    "name": "textbox-basic"
+  },
+  {
+    "path": "fixtures/text/all-caps.docx",
+    "category": "text",
+    "name": "all-caps"
+  },
+  {
+    "path": "fixtures/text/arabic.docx",
+    "category": "text",
+    "name": "arabic"
+  },
+  {
+    "path": "fixtures/text/bold-italic.docx",
+    "category": "text",
+    "name": "bold-italic"
+  },
+  {
+    "path": "fixtures/text/bold.docx",
+    "category": "text",
+    "name": "bold"
+  },
+  {
+    "path": "fixtures/text/char-spacing.docx",
+    "category": "text",
+    "name": "char-spacing"
+  },
+  {
+    "path": "fixtures/text/cjk.docx",
+    "category": "text",
+    "name": "cjk"
+  },
+  {
+    "path": "fixtures/text/color.docx",
+    "category": "text",
+    "name": "color"
+  },
+  {
+    "path": "fixtures/text/double-strike.docx",
+    "category": "text",
+    "name": "double-strike"
+  },
+  {
+    "path": "fixtures/text/emboss.docx",
+    "category": "text",
+    "name": "emboss"
+  },
+  {
+    "path": "fixtures/text/emoji.docx",
+    "category": "text",
+    "name": "emoji"
+  },
+  {
+    "path": "fixtures/text/empty-run.docx",
+    "category": "text",
+    "name": "empty-run"
+  },
+  {
+    "path": "fixtures/text/font-name.docx",
+    "category": "text",
+    "name": "font-name"
+  },
+  {
+    "path": "fixtures/text/font-size.docx",
+    "category": "text",
+    "name": "font-size"
+  },
+  {
+    "path": "fixtures/text/highlight.docx",
+    "category": "text",
+    "name": "highlight"
+  },
+  {
+    "path": "fixtures/text/imprint.docx",
+    "category": "text",
+    "name": "imprint"
+  },
+  {
+    "path": "fixtures/text/italic.docx",
+    "category": "text",
+    "name": "italic"
+  },
+  {
+    "path": "fixtures/text/latin-extended.docx",
+    "category": "text",
+    "name": "latin-extended"
+  },
+  {
+    "path": "fixtures/text/outline.docx",
+    "category": "text",
+    "name": "outline"
+  },
+  {
+    "path": "fixtures/text/shadow.docx",
+    "category": "text",
+    "name": "shadow"
+  },
+  {
+    "path": "fixtures/text/small-caps.docx",
+    "category": "text",
+    "name": "small-caps"
+  },
+  {
+    "path": "fixtures/text/strikethrough.docx",
+    "category": "text",
+    "name": "strikethrough"
+  },
+  {
+    "path": "fixtures/text/superscript-subscript.docx",
+    "category": "text",
+    "name": "superscript-subscript"
+  },
+  {
+    "path": "fixtures/text/theme-tint-shade.docx",
+    "category": "text",
+    "name": "theme-tint-shade"
+  },
+  {
+    "path": "fixtures/text/toggle-xor.docx",
+    "category": "text",
+    "name": "toggle-xor"
+  },
+  {
+    "path": "fixtures/text/underline.docx",
+    "category": "text",
+    "name": "underline"
+  },
+  {
+    "path": "fixtures/text/vanish.docx",
+    "category": "text",
+    "name": "vanish"
+  },
+  {
+    "path": "fixtures/text/xml-special-chars.docx",
+    "category": "text",
+    "name": "xml-special-chars"
+  },
+  {
+    "path": "fixtures/track-changes/redline-basic.docx",
+    "category": "track-changes",
+    "name": "redline-basic"
+  },
+  {
+    "path": "fixtures/track-changes/track-delete.docx",
+    "category": "track-changes",
+    "name": "track-delete"
+  },
+  {
+    "path": "fixtures/track-changes/track-insert.docx",
+    "category": "track-changes",
+    "name": "track-insert"
+  },
+  {
+    "path": "fixtures/watermark/watermark-image.docx",
+    "category": "watermark",
+    "name": "watermark-image"
+  },
+  {
+    "path": "fixtures/watermark/watermark-text.docx",
+    "category": "watermark",
+    "name": "watermark-text"
+  }
+]
