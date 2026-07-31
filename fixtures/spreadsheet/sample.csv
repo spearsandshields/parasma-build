@@ -1,0 +1,6 @@
+Order,Customer,Region,Amount,Paid,Notes
+1001,"Acme, Inc.",North,1299.99,TRUE,"Said ""rush order"" on the phone"
+1002,Globex,South,549,FALSE,Net 30
+1003,Initech,East,12500,TRUE,
+1004,Umbrella,West,89.5,TRUE,Partial shipment
+1005,Hooli,North,3998,FALSE,Awaiting PO
